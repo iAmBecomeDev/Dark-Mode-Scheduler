@@ -1,6 +1,6 @@
 # Dark-Mode-Scheduler
 
-#🛠️ Requirements
+# 🛠️ Requirements
 
    Windows 10/11
 
@@ -9,7 +9,7 @@
    Administrator Rights
 
    
-#❓ FAQ
+# ❓ FAQ
 
 Q: Does this survive reboots?
 A: Yes! Uses Windows Task Scheduler for persistence.
