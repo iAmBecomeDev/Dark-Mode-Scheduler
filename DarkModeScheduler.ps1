@@ -38,6 +38,3 @@ function Register-DarkModeScheduler {
 }
 
 Register-DarkModeScheduler
-
-
-Gimme a quick github page for this
